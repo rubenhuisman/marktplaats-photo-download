@@ -1,0 +1,17 @@
+{
+  "name": "markplaats-photo-download",
+  "version": "1.0.0",
+  "description": "A command line utility for downloading pictures of a Marktplaats advertisment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben Huisman",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "image-downloader": "^3.2.2",
+    "tinyreq": "^3.2.6",
+    "valid-url": "^1.0.9"
+  }
+}
